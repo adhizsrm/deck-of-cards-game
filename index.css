@@ -40,7 +40,7 @@ div.card-slot {
 }
 
 div.card-slot:nth-of-type(1) {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 img.card {
@@ -61,4 +61,8 @@ div.top > p {
 
 button:disabled {
   cursor: not-allowed;
+}
+
+h2 {
+  margin: 10px;
 }
